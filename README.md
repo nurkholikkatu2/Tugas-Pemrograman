@@ -1,1 +1,1 @@
-# Mencari-Nilai-rata-rata-tertinggi-terendah-dan-tengah-dengan-C
+Mencari nilai tertinggi dan terendah
